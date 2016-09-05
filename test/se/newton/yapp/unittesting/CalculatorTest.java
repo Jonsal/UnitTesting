@@ -20,8 +20,6 @@ public class CalculatorTest {
         int expResult = 9;
         int result = instance.Add(x, y);
         assertEquals(expResult, result);
-        
-        assert
     }
 
     /**
