@@ -9,7 +9,7 @@ public class CalculatorTest {
     }
     
     /**
-     * Test of Add method, of class Calculator.
+     * Test of Add method, of class Calculator. Hej
      */
     @Test
     public void testAdd() {
